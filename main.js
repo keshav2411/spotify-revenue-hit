@@ -1,5 +1,4 @@
-// Replace YOUR_ACCESS_TOKEN with your actual access token
-const access_token = 'YOUR_ACCESS_TOKEN';
+const access_token = windows.spotify_token
 
 function getStreams() {
   // Get the song ID from the input field
