@@ -1,4 +1,4 @@
-const access_token = windows.spotify_token
+const access_token = window.spotify_token
 
 function getStreams() {
   // Get the song ID from the input field
